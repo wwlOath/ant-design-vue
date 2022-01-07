@@ -1,7 +1,7 @@
 // _override.scss
-// 
+//
 // Overriding Ant Design's default variables, such as colors, shadows and... .
-// 
+//
 
 html {
 	--antd-wave-shadow-color: $color-primary ;
@@ -1085,7 +1085,6 @@ textarea.ant-time-picker-input {
 	}
 }
 .ant-input {
-	font-weight: $fw-semibold;
 	color: $color-gray-7;
 	&:focus {
 		border-color: $color-primary;
